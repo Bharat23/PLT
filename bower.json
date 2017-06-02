@@ -1,0 +1,26 @@
+{
+  "name": "plt-timeout",
+  "homepage": "https://github.com/Bharat23/PLT",
+  "authors": [
+    "Bharat <bharat.sinha.2307@gmail.com>"
+  ],
+  "description": "Module to enhance User Experience during poor network conditions",
+  "main": "timeout.js",
+  "keywords": [
+    "timeout",
+    "page",
+    "load",
+    "perceived",
+    "speed",
+    "poor",
+    "network"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
