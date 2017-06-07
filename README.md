@@ -7,9 +7,9 @@ Code Related to Word Done On PLT
   - It is like the No Network Chrome Dinosaur which informs the user that something is wrong and to have patience.
 
 Installation:
-  Git:
+  - Git:
     - clone the repo and use the timout.js library by placing it inyour static folder in your code base
-  Bower:
+  - Bower:
     - Prerequisites:
       - Bower installed in your system
       In case, bower is not installed use the below command
