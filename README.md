@@ -13,11 +13,15 @@ Installation:
     - Prerequisites:
       - Bower installed in your system
       In case, bower is not installed use the below command
-      <code>npm install -g bower</code>
+      ```
+      npm install -g bower
+      ```
       
     - Install Library
       - After bower is installed use following command 
-      <code>bower install plt-timeout</code>
+      ```
+      bower install plt-timeout
+      ```
       
     - Use the library
       - Use the timout.js from bower_component folder
